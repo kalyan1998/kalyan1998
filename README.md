@@ -26,9 +26,6 @@
 - 😄 Pronouns: He/Him/His
 <!-- - 📫 How to reach me: https://www.linkedin.com/in/shiva-diwakaruni/ -->
 
-
-I am a driven researcher and software developer passionate about exploring new technological domains. My current focus is on pioneering research in autonomous ground vehicles and developing a distributed computing library funded by the NSF. I'm also the creator of Axon, an innovative app designed to enhance connectivity through services like carpooling and networking. Leveraging a strong background in Machine Learning and Distributed Systems, I aim to impact large-scale products and solve real-world challenges.
-
 ## **Languages and Tools:**  
 
 <p align="left">
