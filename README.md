@@ -7,7 +7,7 @@
   </div>
 </a>
 
-<a href="mailto:sdiwaka@clemson.edu">
+<a href="mailto:shivakalyan529@gmail.com">
   <img align="left" alt="Shiva Kalyan Diwakaruni - Mail" width="26px" src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png"/>
 </a>
 
@@ -19,7 +19,7 @@
 
 ## About Me 🚀
 
-- 📫 I'm currently looking for Sotware Engineer, Full Stack Engineer and Systems Engineer jobs.
+- 📫 I'm currently Software Engineer II at GEICO, building in-house tag management systems 
 - 🌱 Previously worked as a Senior Associate Software Engineer at MathWorks. 
 - 👯 I’m looking to collaborate on Full Stack and Distritbuted Systems Projects.
 - 💬 I have strong fundamentals in distributed systems and algorithms.
